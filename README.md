@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello and welcome to my page!  
+Enthusiastic and experienced MSc in Engineering (Robot Systems) professional with nearly 8 years of hands-on experience. I'm always on the lookout for a challenging role in the robotics sector, leveraging my expertise in industrial robot automation and application design for advanced robot systems.
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,bash,git,ros,qt,java,php,opencv,raspberrypi,gitlab)](https://skillicons.dev)  
 
 <!--
 **ThorStark/ThorStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
